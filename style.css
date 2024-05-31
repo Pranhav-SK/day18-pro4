@@ -1,0 +1,13 @@
+/* Custom styles */
+.container {
+    margin-top: 50px;
+  }
+  
+  .joke-card {
+    max-width: 500px;
+  }
+  
+  .joke-text {
+    font-size: 1.25rem;
+  }
+  
